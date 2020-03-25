@@ -1,52 +1,52 @@
-#box1{
+#box1 {
     float: inline-start;
     background-color: rgb(0, 197, 108);
     width: 70%;
     height: 80px;
 }
-#box2{
+#box2 {
     float: inline-start;
     background-color: rgb(19 , 117, 173);
     width: 30%;
     height: 80px;
 }
-#box3{
+#box3 {
     float: inline-start;
     background-color: rgb(238, 65, 57);
     width: 33.3%;
     height: 160px;
 }
-#box4{
+#box4 {
     float: inline-start;
     background-color: rgb(234, 114, 44);
     width: 33.3%;
     height: 80px;
 }
-#box5{
+#box5 {
     float: inline-start;
     background-color: rgb(136, 155, 156);
     width: 33.4%;
     height: 80px;
 }
-#box6{
+#box6 {
     float: inline-start;
     background-color: rgb(248, 144, 43);
     width: 22.2%;
     height: 80px;
 }
-#box7{
+#box7 {
     float: inline-start;
     background-color: rgb(0, 150, 123);
     width: 22.2%;
     height: 80px;
 }
-#box8{
+#box8 {
     float: inline-start;
     background-color: rgb(214, 73, 24);
     width: 22.3%;
     height: 80px;
 }
-#box9{
+#box9 {
     float: inline-start;
     background-color: rgb(37, 54, 69);
     width: 100%;
